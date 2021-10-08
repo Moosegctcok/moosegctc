@@ -1,2 +1,0 @@
-# moosegctc
-my first github
